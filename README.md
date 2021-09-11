@@ -21,6 +21,7 @@
 <ul>
 <li><a href='https://github.com/cristhianbenitez/eloquent-js-exercises/blob/main/Program%20Structure/01-Looping_a_triangle.js'>Looping a triangle</a></li>
 <li><a href='https://github.com/cristhianbenitez/eloquent-js-exercises/blob/main/Program%20Structure/02-FizzBuzz.js'>FizzBuzz</a></li>
+<li><a href='https://github.com/cristhianbenitez/eloquent-js-exercises/blob/main/Program%20Structure/03-Chessboard.js'>Chessboard</a></li>
 </ul>
 </details>
 <details>
