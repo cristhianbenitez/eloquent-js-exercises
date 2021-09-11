@@ -11,11 +11,15 @@
 //SOLUTION:
 
 let str = '';
-
 // FOR LOOP:
 
 for (let i = 0; i < 7; i++) {
   str += '#';
+  console.log(str);
+}
+// SHORTER FOR LOOP
+
+for (let str = '#'; str.length <= 7; str += '#') {
   console.log(str);
 }
 
