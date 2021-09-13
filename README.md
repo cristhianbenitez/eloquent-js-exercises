@@ -19,13 +19,18 @@
 <summary>2. Program Structure</summary>
 <br>
 <ul>
-<li><a href='https://github.com/cristhianbenitez/eloquent-js-exercises/blob/main/Program%20Structure/01-Looping_a_triangle.js'>Looping a triangle</a></li>
-<li><a href='https://github.com/cristhianbenitez/eloquent-js-exercises/blob/main/Program%20Structure/02-FizzBuzz.js'>FizzBuzz</a></li>
-<li><a href='https://github.com/cristhianbenitez/eloquent-js-exercises/blob/main/Program%20Structure/03-Chessboard.js'>Chessboard</a></li>
+<li><a href='https://github.com/cristhianbenitez/eloquent-js-exercises/blob/main/2.%20Program%20Structure/2.1-Looping_a_triangle.js'>Looping a triangle</a></li>
+<li><a href='https://github.com/cristhianbenitez/eloquent-js-exercises/blob/main/2.%20Program%20Structure/2.2-FizzBuzz.js'>FizzBuzz</a></li>
+<li><a href='https://github.com/cristhianbenitez/eloquent-js-exercises/blob/main/2.%20Program%20Structure/2.3-Chessboard.js'>Chessboard</a></li>
 </ul>
 </details>
 <details>
 <summary>3. Functions </summary>
+<br>
+<ul>
+<li><a href='https://github.com/cristhianbenitez/eloquent-js-exercises/blob/main/3.%20Functions/3.1-Minimum.js'>Minimum</a></li>
+<li><a href='https://github.com/cristhianbenitez/eloquent-js-exercises/blob/main/3.%20Functions/3.1-Minimum.js'>Recursion</a></li>
+</ul>
 </details>
 <details>
 <summary>4. Data Structures: Objects and Arrays </summary>
