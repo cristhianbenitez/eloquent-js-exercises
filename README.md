@@ -30,6 +30,7 @@
 <ul>
 <li><a href='https://github.com/cristhianbenitez/eloquent-js-exercises/blob/main/3.%20Functions/3.1-Minimum.js'>Minimum</a></li>
 <li><a href='https://github.com/cristhianbenitez/eloquent-js-exercises/blob/main/3.%20Functions/3.1-Minimum.js'>Recursion</a></li>
+<li><a href='https://github.com/cristhianbenitez/eloquent-js-exercises/blob/main/3.%20Functions/3.3-Bean_Counting.js'>Bean Counting</a></li>
 </ul>
 </details>
 <details>
