@@ -35,6 +35,12 @@
 </details>
 <details>
 <summary>4. Data Structures: Objects and Arrays </summary>
+<br>
+<ul>
+<li><a href='https://github.com/cristhianbenitez/eloquent-js-exercises/blob/main/4.%20Data-Structures_Objects-and-Arrays/4.1-The_sum_of_a_range.js'>The sum of a range</a></li>
+<li><a href=''></a></li>
+<li><a href=''></a></li>
+</ul>
 </details>
 <details>
 <summary>5. Higher-Order Functions</summary>
