@@ -38,7 +38,7 @@
 <br>
 <ul>
 <li><a href='https://github.com/cristhianbenitez/eloquent-js-exercises/blob/main/4.%20Data-Structures_Objects-and-Arrays/4.1-The_sum_of_a_range.js'>The sum of a range</a></li>
-<li><a href=''></a></li>
+<li><a href='https://github.com/cristhianbenitez/eloquent-js-exercises/blob/main/4.%20Data-Structures_Objects-and-Arrays/4.2-Reversing_an_array.js'>Reversing an array</a></li>
 <li><a href=''></a></li>
 </ul>
 </details>

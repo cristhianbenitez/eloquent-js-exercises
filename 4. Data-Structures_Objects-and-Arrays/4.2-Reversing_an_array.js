@@ -3,6 +3,22 @@ The second, reverseArrayInPlace, does what the reverse method does: it modifies 
 
 const arr = [1, 3, 5, 7, 9];
 
-function reverseArray() {}
+const arrayOfNum = [1, 3, 5, 8];
 
-function reverseArrayInPlace() {}
+function reverseArray(arr) {
+  const reversedArr = [];
+  for (let i = 0; i < arr.length; i++) reversedArr.unshift(arr[i]);
+  return reversedArr;
+}
+
+function reverseArrayInPlace(arr) {
+  for (let i = 0; i < Math.floor(arr.length / 2); i++) {
+    let result = arr[i];
+    arr[i] = arr[arr.length - 1 - i];
+    arr[arr.length - 1 - i] = result;
+  }
+  return arr;
+}
+
+console.log(reverseArray(arrayOfNum)); //[ 8, 5, 3, 1 ]
+console.log(reverseArrayInPlace(arrayOfNum)); //[ 8, 5, 3, 1 ]
